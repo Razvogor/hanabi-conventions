@@ -299,8 +299,8 @@ Note that in this user interface, players are holding their hands like they woul
 
 * Typically, players will only have one card to play at a time. In this case, unless there is some really good clue to give, there are no decisions to be made - they just play their one playable card.
 * What if a player has two or more playable cards to play? Which card should they play first?
-* If both of the cards are not completely known yet (e.g. a playable 2 of unknown color), then the player can play whichever one they want, depending on the situation. For example, it might be good for a player to play a semi-unknown card over a fully-known card just in case it leads into someone else's hand.
-* If **both** of the playable cards are completely known, then our group agrees that they cards should be played in a very specific order. We refer to this as *Priority*. The agreed *Priority* is as follows:
+* If one or more cards is not completely known yet (e.g. a playable 2 of unknown color), then the player may play that card first, depending on the situation. For example, it might be good for a player to play a semi-unknown card over a fully-known card just in case it leads into someone else's hand.
+* If instead a player decides to play a completely known card, then our group agrees that they cards should be played in a very specific order. We refer to this as *Priority*. The agreed *Priority* is as follows:
 
 | Priority | Category of card                                                   | Reason
 | -------- | ------------------------------------------------------------------ | ------
